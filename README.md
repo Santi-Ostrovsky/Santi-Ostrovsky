@@ -47,7 +47,7 @@ As musician Marc Anthony once said: *If you love  what you  do, you will never h
     <img src="https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black" alt="Webpack" />
   </a>
   <a href="https://styled-components.com/">
-    <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" alt="Styled Components" />
+    <img height="28px" width="120px" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" alt="Styled Components" />
   </a>
   <a href="https://lesscss.org/"
      ><img src="https://img.shields.io/badge/less-2B4C80?style=for-the-badge&logo=less&logoColor=white" alt="LESS" />
@@ -59,6 +59,7 @@ As musician Marc Anthony once said: *If you love  what you  do, you will never h
     <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
   </a>
 
+</br>
   
   <a href="https://nodejs.org/es/">
     <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
