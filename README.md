@@ -4,7 +4,7 @@
 
 <h1 align="center">Hi there, I'm Santi 👋</h1>
 
-I'm a Full Stack Web Developer and a passionate technology enthusiast. Programming has become my all-day activity of choise. I find it extremely satisfying to plan out, structure, code and design an entire product, from start to finish.
+I'm a Full Stack Web Developer 💻 and a passionate technology enthusiast. Programming has become my all-day activity of choise. I find it extremely satisfying to plan out, structure, code and design an entire product, from start to finish.
 
 As musician Marc Anthony once said: *If you love  what you  do, you will never have to work a day in your life.* And I'm happy to say... I've found it!
 
@@ -148,7 +148,7 @@ As musician Marc Anthony once said: *If you love  what you  do, you will never h
 
 <h2></h2>
 
-<h3 align="center">Contact Me 📞</h3>
+<h3 align="center">Contact Me 📲</h3>
 
 <p align="center">
   <a href="mailto:s.ostrovsky@hotmail.com">
