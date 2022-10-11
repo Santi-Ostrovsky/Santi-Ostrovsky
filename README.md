@@ -40,7 +40,7 @@ As musician Marc Anthony once said: *If you love  what you  do, you will never h
   </a>
   
   <a href="https://styled-components.com/">
-    <img height="28px" width="120px" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" alt="Styled Components" />
+    <img height="28px" width="150px" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" alt="Styled Components" />
   </a>
   
   <a href="https://lesscss.org/">
