@@ -1,5 +1,5 @@
 <p align="center" width="100%">
-  <img src="./Assets/GitHub-Banner.png" alt="Banner" />
+  <img src="./Assets/Banner/GitHub-Banner.png" alt="Banner" />
 </p>
 
 <h1 align="center">Hi there, I'm Santi 👋</h1>
@@ -28,40 +28,9 @@ As musician Marc Anthony once said: *If you love  what you  do, you will never h
   <a href="https://developer.mozilla.org/docs/Web/CSS"><img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
 </p>
 
-<h2></h2>
-
-<h3 align="center">I'm familiar with:</h3>
-
-<p align="center">
-  
-  <a href="https://reactjs.org/">
-    <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
-  </a>
-  <a href="https://redux.js.org/">
-    <img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" alt="Redux" />
-  </a>
-  <a href="https://babeljs.io/">
-    <img src="https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black" alt="Babel" />
-  </a>
-  <a href="https://webpack.js.org/">
-    <img src="https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black" alt="Webpack" />
-  </a>
-  <a href="https://styled-components.com/">
-    <img height="28px" width="120px" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" alt="Styled Components" />
-  </a>
-  <a href="https://lesscss.org/"
-     ><img src="https://img.shields.io/badge/less-2B4C80?style=for-the-badge&logo=less&logoColor=white" alt="LESS" />
-  </a>
-  <a href="https://sass-lang.com/">
-    <img src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white" alt="SASS" />
-  </a>
-  <a href="https://getbootstrap.com/">
-    <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
-  </a>
-
 </br>
-  
-  <a href="https://nodejs.org/es/">
+
+<a href="https://nodejs.org/es/">
     <img height="28px" width="90px" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
   </a>
   <a href="https://www.npmjs.com/">
@@ -86,9 +55,9 @@ As musician Marc Anthony once said: *If you love  what you  do, you will never h
     <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
   </a>
 
-  </br>
-  
-  <a href="https://git-scm.com/">
+</br>
+
+<a href="https://git-scm.com/">
     <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   </a>
   <a href="https://github.com/Santi-Ostrovsky">
@@ -107,9 +76,9 @@ As musician Marc Anthony once said: *If you love  what you  do, you will never h
     <img src="https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white" alt="Zoom" />
   </a>
 
-  </br>
-  
-  <a href="https://www.heroku.com/home">
+</br>
+
+<a href="https://www.heroku.com/home">
     <img src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white" alt="Heroku" />
   </a>
   <a href="https://render.com/">
@@ -122,9 +91,9 @@ As musician Marc Anthony once said: *If you love  what you  do, you will never h
     <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7" alt="Netlify" />
   </a>
 
-  </br>
-  
-  <a href="https://www.canva.com/">
+</br>
+
+<a href="https://www.canva.com/">
     <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" alt="Canva" />
   </a>
   <a href="https://www.figma.com/">
@@ -136,7 +105,7 @@ As musician Marc Anthony once said: *If you love  what you  do, you will never h
   <a href="https://inkscape.org/">
     <img src="https://img.shields.io/badge/Inkscape-e0e0e0?style=for-the-badge&logo=inkscape&logoColor=080A13" alt="Inkscape" />
   </a>
-  
+
 </p>
 
 <h2></h2>
