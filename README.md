@@ -62,13 +62,13 @@ As musician Marc Anthony once said: *If you love  what you  do, you will never h
 </br>
   
   <a href="https://nodejs.org/es/">
-    <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+    <img height="28px" width="90px" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
   </a>
   <a href="https://www.npmjs.com/">
     <img src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white" alt="NPM" />
   </a>
   <a href="https://expressjs.com/">
-    <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="Express.js" />
+    <img height="28px" width="90px" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="Express.js" />
   </a>
   <a href="https://www.postman.com/">
     <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
@@ -86,6 +86,7 @@ As musician Marc Anthony once said: *If you love  what you  do, you will never h
     <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
   </a>
 
+  </br>
   
   <a href="https://git-scm.com/">
     <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
@@ -106,6 +107,7 @@ As musician Marc Anthony once said: *If you love  what you  do, you will never h
     <img src="https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white" alt="Zoom" />
   </a>
 
+  </br>
   
   <a href="https://www.heroku.com/home">
     <img src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white" alt="Heroku" />
@@ -120,6 +122,7 @@ As musician Marc Anthony once said: *If you love  what you  do, you will never h
     <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7" alt="Netlify" />
   </a>
 
+  </br>
   
   <a href="https://www.canva.com/">
     <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" alt="Canva" />
