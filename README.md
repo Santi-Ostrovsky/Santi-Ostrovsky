@@ -30,6 +30,39 @@ As musician Marc Anthony once said: *If you love  what you  do, you will never h
 
 </br>
 
+<h2></h2>
+
+<h3 align="center">I'm familiar with:</h3>
+
+<p align="center">
+
+  <a href="https://reactjs.org/">
+    <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
+  </a>
+  <a href="https://redux.js.org/">
+    <img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" alt="Redux" />
+  </a>
+  <a href="https://babeljs.io/">
+    <img src="https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black" alt="Babel" />
+  </a>
+  <a href="https://webpack.js.org/">
+    <img src="https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black" alt="Webpack" />
+  </a>
+  <a href="https://styled-components.com/">
+    <img height="28px" width="120px" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" alt="Styled Components" />
+  </a>
+  <a href="https://lesscss.org/"
+     ><img src="https://img.shields.io/badge/less-2B4C80?style=for-the-badge&logo=less&logoColor=white" alt="LESS" />
+  </a>
+  <a href="https://sass-lang.com/">
+    <img src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white" alt="SASS" />
+  </a>
+  <a href="https://getbootstrap.com/">
+    <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+  </a>
+  
+</br>
+  
 <a href="https://nodejs.org/es/">
     <img height="28px" width="90px" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
   </a>
