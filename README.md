@@ -14,7 +14,7 @@ As musician Marc Anthony once said: *If you love  what you  do, you will never h
 
 <p align="center">
   <img height="200px" width="49%" src="https://github-readme-stats.vercel.app/api?username=Santi-Ostrovsky&show_icons=true&locale=en&theme=slateorange" alt="Santi's GitHub Stats" />
-  <img height="200px" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Santi-Ostrovsky&show_icons=true&locale=en&layout=compact&theme=slateorange" alt="Santi's GitHub Stats" />
+  <img height="200px" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Santi-Ostrovsky&show_icons=true&locale=en&layout=compact&theme=slateorange" alt="Santi's GitHub Stats" />
 </p>
 
 <h2></h2>
