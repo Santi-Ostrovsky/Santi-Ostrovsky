@@ -19,7 +19,7 @@ As musician Marc Anthony once said: *If you love  what you  do, you will never h
 
 <h2></h2>
 
-<h3 align="center">I'm familiar with:</h3>
+<h3 align="center">Technologies I'm familiar with:</h3>
 
 <p align="center">
   
@@ -149,7 +149,7 @@ As musician Marc Anthony once said: *If you love  what you  do, you will never h
 
 <h2></h2>
 
-<h3 align="center">Working on...</h3>
+<h3 align="center">I'm currently working on...</h3>
 
 <p align="center">
   
