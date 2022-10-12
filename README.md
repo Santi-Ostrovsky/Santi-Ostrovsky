@@ -2,7 +2,7 @@
   <img src="./Assets/Banner/GitHub-Banner.png" alt="Banner" />
 </p>
 
-<h1 align="center">Hi there, I'm Santi 👋</h1>
+<h1 align="center">𝐻𝑖 𝑡ℎ𝑒𝑟𝑒, 𝐼'𝑚 𝑆𝑎𝑛𝑡𝑖 👋</h1>
 
 I'm a Full Stack Web Developer 💻 and a passionate technology enthusiast. Programming has become my all-day activity of choise. I find it extremely satisfying to plan out, structure, code and design an entire product, from start to finish.
 
@@ -19,33 +19,7 @@ As musician Marc Anthony once said: *If you love  what you  do, you will never h
 
 <h2></h2>
 
-<h3 align="center">Languages I code in:</h3>
-
-<p align="center">
-  
-  <a href="https://www.python.org/">
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
-  </a>
-  
-  <a href="https://www.javascript.com/">
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
-  </a>
-  
-  <a href="https://developer.mozilla.org/docs/Web/HTML">
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  </a>
-  
-  <a href="https://developer.mozilla.org/docs/Web/CSS">
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  </a>
-  
-</p>
-
-</br>
-
-<h2></h2>
-
-<h3 align="center">I'm familiar with:</h3>
+<h3 align="center">Technologies I'm familiar with:</h3>
 
 <p align="center">
   
@@ -66,7 +40,7 @@ As musician Marc Anthony once said: *If you love  what you  do, you will never h
   </a>
   
   <a href="https://styled-components.com/">
-    <img height="28px" width="120px" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" alt="Styled Components" />
+    <img height="28px" width="150px" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" alt="Styled Components" />
   </a>
   
   <a href="https://lesscss.org/">
@@ -175,7 +149,7 @@ As musician Marc Anthony once said: *If you love  what you  do, you will never h
 
 <h2></h2>
 
-<h3 align="center">Working on...</h3>
+<h3 align="center">I'm currently working on...</h3>
 
 <p align="center">
   
