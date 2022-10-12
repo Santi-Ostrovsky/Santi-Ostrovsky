@@ -201,11 +201,11 @@ As musician Marc Anthony once said: *If you love  what you  do, you will never h
 <p align="center">
   
   <a href="mailto:s.ostrovsky@hotmail.com">
-    <img height="28" width="120" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Outlook" />
+    <img height="50" width="50" src="./Assets/SVG/outlook.svg" alt="Outlook"/>
   </a>
   
   <a href="mailto:5ant19586@gmail.com">
-    <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Gmail" />
+    <img height="50" width="50" src="./Assets/SVG/gmail.svg" alt="Gmail"/>
   </a>
   
   <a href="https://www.linkedin.com/in/sostro/">
