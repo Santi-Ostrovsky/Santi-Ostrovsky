@@ -67,7 +67,7 @@ As musician Marc Anthony once said: *If you love  what you  do, you will never h
   </a>
   
   <a href="https://github.com/Santi-Ostrovsky">
-    <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" />
+    <img height="50" width="50" src="./Assets/SVG/github.svg" alt="GitHub" />
   </a>
     
   <a href="https://www.heroku.com/home">
