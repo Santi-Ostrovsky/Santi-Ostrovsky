@@ -32,51 +32,51 @@ As musician Marc Anthony once said: *If you love  what you  do, you will never h
   
   <a href="https://www.javascript.com/">
     <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" />
-  </a>
+  </a>­­
   
   <a href="https://reactjs.org/">
     <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" />
-  </a>
+  </a>­­
   
   <a href="https://redux.js.org/">
     <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" alt="Redux" />
-  </a>
+  </a>­­
     
   <a href="https://nodejs.org/es/">
     <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-  </a>
+  </a>­­
     
   <a href="https://www.npmjs.com/">
     <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" alt="NPM" />
-  </a>
+  </a>­­
     
   <a href="https://expressjs.com/">
     <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express.js" />
-  </a>
+  </a>­­
     
   <a href="https://www.postgresql.org/">
     <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" />
-  </a>
+  </a>­­
     
   <a href="https://sequelize.org/">
     <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" alt="Sequelize" />
-  </a>
+  </a>­­
     
   <a href="https://git-scm.com/">
     <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" />
-  </a>
+  </a>­­
   
   <a href="https://github.com/Santi-Ostrovsky">
     <img height="50" width="50" src="./Assets/SVG/github.svg" alt="GitHub" />
-  </a>
+  </a>­­
     
   <a href="https://www.heroku.com/home">
     <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain.svg" alt="Heroku" />
-  </a>
+  </a>­­
     
   <a href="https://www.canva.com/">
     <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" alt="Canva" />
-  </a>
+  </a>­­
   
   <a href="https://www.figma.com/">
     <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" />
@@ -176,15 +176,15 @@ As musician Marc Anthony once said: *If you love  what you  do, you will never h
   
   <a href="https://www.typescriptlang.org/">
     <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" />
-  </a>
+  </a>­­
   
   <a href="https://reactnative.dev/">
     <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React Native" />
-  </a>
+  </a>­­
   
   <a href="https://www.php.net/">
     <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" />
-  </a>
+  </a>­­
   
   <a href="https://www.mongodb.com/">
     <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" />
@@ -202,11 +202,11 @@ As musician Marc Anthony once said: *If you love  what you  do, you will never h
   
   <a href="mailto:s.ostrovsky@hotmail.com">
     <img height="50" width="50" src="./Assets/SVG/outlook.svg" alt="Outlook"/>
-  </a>
+  </a>­­
   
   <a href="mailto:5ant19586@gmail.com">
     <img height="50" width="50" src="./Assets/SVG/gmail.svg" alt="Gmail"/>
-  </a>
+  </a>­­
   
   <a href="https://www.linkedin.com/in/sostro/">
     <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" />
