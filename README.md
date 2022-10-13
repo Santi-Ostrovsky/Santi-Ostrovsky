@@ -1,16 +1,34 @@
+<!-- BANNER -->
+
 <p align="center" width="100%">
   <img src="./Assets/Banner/GitHub-Banner.png" alt="Banner" />
 </p>
 
+<!-- ----------------------------------------------------- -->
+
+<!-- TITLE -->
+
 <h1 align="center">𝐻𝑖 𝑡ℎ𝑒𝑟𝑒, 𝐼'𝑚 𝑆𝑎𝑛𝑡𝑖 👋</h1>
 
-I'm a Full Stack Web Developer 💻 and a passionate technology enthusiast. Programming has become my all-day activity of choise. I find it extremely satisfying to plan out, structure, code and design an entire product, from start to finish.
+<!-- ----------------------------------------------------- -->
 
+<!-- HEADLINE -->
+
+<p align="center">
+  I'm a Full Stack Web Developer 💻 and a passionate technology enthusiast. Programming has become my all-day activity of choise. I find it extremely satisfying to plan out, structure, code and design an entire product, from start to finish.
+</p>
+
+<p align="center">
 As musician Marc Anthony once said: *If you love  what you  do, you will never have to work a day in your life.* And I'm happy to say... This is it!
-
+<p>
+ 
 </br>
 
 <h2></h2>
+
+<!-- ----------------------------------------------------- -->
+
+<!-- PROFILE STATS -->
 
 <h3 align="center">My GitHub Stats & Most Used Languages</h3>
 
@@ -25,6 +43,10 @@ As musician Marc Anthony once said: *If you love  what you  do, you will never h
 </br>
 
 <h2></h2>
+
+<!-- ----------------------------------------------------- -->
+
+<!-- MAIN SKILLS -->
 
 <h3 align="center">My main skills:</h3>
 
@@ -87,6 +109,10 @@ As musician Marc Anthony once said: *If you love  what you  do, you will never h
 </br>
 
 <h2></h2>
+
+<!-- ----------------------------------------------------- -->
+
+<!-- OTHER TECHNOLOGIES -->
 
 <h3 align="center">Technologies I'm familiar with:</h3>
 
@@ -170,6 +196,10 @@ As musician Marc Anthony once said: *If you love  what you  do, you will never h
 
 <h2></h2>
 
+<!-- ----------------------------------------------------- -->
+
+<!-- STUDYING -->
+
 <h3 align="center">I'm currently working on...</h3>
 
 <p align="center">
@@ -196,6 +226,10 @@ As musician Marc Anthony once said: *If you love  what you  do, you will never h
 
 <h2></h2>
 
+<!-- ----------------------------------------------------- -->
+
+<!-- CONTACT INFO. -->
+
 <h3 align="center">Contact Me 📲</h3>
 
 <p align="center">
@@ -213,3 +247,5 @@ As musician Marc Anthony once said: *If you love  what you  do, you will never h
   </a>
   
 </p>
+
+<!-- ----------------------------------------------------- -->
