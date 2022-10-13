@@ -15,12 +15,12 @@
 <!-- HEADLINE -->
 
 <p align="center">
-  I'm a Full Stack Web Developer 💻 and a passionate technology enthusiast. Programming has become my all-day activity of choise. I find it extremely satisfying to plan out, structure, code and design an entire product, from start to finish.
+  I'm a Full Stack Web Developer 💻 and a passionate technology enthusiast on a never-ending learning path 🚀
 </p>
 
 <p align="center">
-As musician Marc Anthony once said: *If you love  what you  do, you will never have to work a day in your life.* And I'm happy to say... This is it!
-<p>
+  I'm a proactive, dedicated and very structured person, passionate about leadership, teamwork, facing new challenges and adjusting to new work environments. I like to focus on planning and organizing projects, decision making, problem resolution, goal achievement and customer satisfaction 🤝
+</p>
  
 </br>
 
