@@ -99,11 +99,7 @@
   <a href="https://www.canva.com/">
     <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" alt="Canva" />
   </a>­­
-  
-  <a href="https://www.figma.com/">
-    <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" />
-  </a>
-  
+
 </p>
 
 </br>
@@ -180,6 +176,10 @@
   
   <a href="https://www.netlify.com/">
     <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7" alt="Netlify" />
+  </a>
+    
+  <a href="https://www.figma.com/">
+    <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
   </a>
   
   <a href="https://www.gimp.org/">
