@@ -34,9 +34,13 @@
 
 <p align="center">
   
+  <a href="https://github.com/Santi-Ostrovsky">
   <img height="200px" width="54%" src="https://github-readme-stats.vercel.app/api?username=Santi-Ostrovsky&show_icons=true&locale=en&theme=slateorange" alt="Santi's GitHub Stats" />
+  </a>
   
+  <a href="https://github.com/Santi-Ostrovsky">
   <img height="200px"  width="45%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Santi-Ostrovsky&show_icons=true&locale=en&layout=compact&theme=slateorange" alt="Santi's GitHub Stats" />
+  </a>
   
 </p>
 
